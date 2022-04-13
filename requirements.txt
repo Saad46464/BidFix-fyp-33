@@ -6,7 +6,7 @@ amqp==5.1.0
 anyio==3.4.0
 api==0.0.7
 appdirs==1.4.3
-apturl==0.5.2
+apturl
 asgiref==3.4.1
 astroid==2.4.2
 async-timeout==4.0.2
