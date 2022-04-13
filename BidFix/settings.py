@@ -119,9 +119,11 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-STATIC_URL = "/static/"
-STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
-STATICFILES_DIRS = (os.path.join(BASE_DIR, "static"),)
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+]
+STATIC_ROOT = 'staticfiles'
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.0/topics/i18n/
