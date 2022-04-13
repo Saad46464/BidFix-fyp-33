@@ -5,7 +5,7 @@ alembic==1.7.5
 amqp==5.1.0
 anyio==3.4.0
 api==0.0.7
-appdirs
+appdirs==1.4.3
 asgiref==3.4.1
 astroid==2.4.2
 async-timeout==4.0.2
@@ -27,15 +27,11 @@ bootstrap4==0.1.0
 boto==2.49.0
 boto3==1.14.56
 botocore==1.17.56
-Brlapi==0.7.0
 CacheControl==0.12.6
 cachetools==5.0.0
-celery==5.2.6
 certifi==2021.10.8
 cffi==1.15.0
 cfgv==3.3.1
-channels==3.0.4
-channels-redis==3.3.1
 chardet==3.0.4
 charset-normalizer==2.0.9
 click==8.0.4
@@ -64,9 +60,6 @@ dj-database-url==0.5.0
 Django==3.2.12
 django-allauth==0.48.0
 django-bootstrap5==21.3
-django-celery-beat==2.2.1
-django-celery-results==2.3.0
-django-channels-notifications==1.1
 django-cors-headers==3.5.0
 django-crispy-forms==1.11.1
 django-email-users==1.1.0
@@ -79,7 +72,6 @@ django-rest-framework==0.1.0
 django-rest-swagger==2.2.0
 django-smart-selects==1.5.9
 django-storages==1.10
-django-summernote==0.8.20.0
 django-templated-mail==1.1.1
 django-timezone-field==4.2.3
 django-user-management==18.0.0
@@ -88,7 +80,6 @@ djangorestframework-jsonapi==4.3.0
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
 dnspython==2.1.0
-docker==5.0.3
 docutils==0.15.2
 drf-yasg==1.20.0
 duplicity==0.8.12.0
@@ -100,7 +91,6 @@ fastapi==0.70.1
 fasteners==0.14.1
 filelock==3.4.0
 flake8==4.0.1
-Flask==2.0.2
 future==0.18.2
 greenlet==1.1.2
 gunicorn==20.1.0
