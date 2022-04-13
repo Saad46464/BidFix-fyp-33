@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-5pi8@ltq38n69yzsz#ljwmvm$(9c7@o=h4ntam$%pn0at*ycw5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["bidfix-fyp-33.herokuapp.com", "bidfixfyp.herokuapp.com"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
